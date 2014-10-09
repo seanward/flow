@@ -1,0 +1,18 @@
+{
+  "name": "flow-test-123",
+  "description": "The best project ever.",
+  "author": "Sean Ward <sward@synthace.com>",
+  "repo": "Sean/flow",
+  "version": "0.1.0",
+  "keywords": [
+  ],
+  "dependencies": {
+    "noflo/noflo": "*"
+  },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
